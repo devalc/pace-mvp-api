@@ -37,6 +37,13 @@ pace-download
 | iop     | L2/L3 | Inherent optical properties         |
 
 
+## Authentication
+
+To run the code successfully, you need to set up authentication with Earth EarthData. Make sure you have your .netcert file configured. You can follow the official guide here:
+Earth Access Authentication Guide
+
+Once your .netcert is set up, the code should work as expected.
+
 ## 📟 Example: CLI Usage
 
 Download **daily L3 RRS** data for **July 1–2, 2025**, globally:
