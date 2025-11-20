@@ -1,6 +1,6 @@
 # PACE Downloader
 
-**PACE Downloader** is a command-line and Python API tool for downloading NASA PACE (Plankton, Aerosol, Cloud, ocean Ecosystem) satellite data unsing EarthAccess API. It supports:
+**PACE Downloader** is a command-line and Python API tool for downloading NASA PACE (Plankton, Aerosol, Cloud, ocean Ecosystem) satellite data using EarthAccess API. It supports:
 
 - L2 and L3 products
 - Daily or monthly downloads
