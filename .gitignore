@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+pace_downloader.egg-info
+
+# Virtual environment
+.env/
+venv/
+env/
+
+# Downloads and output
+downloads/
+
+# Build / egg info
+*.egg-info/
+dist/
+build/
+
+# IDE/editor files
+.vscode/
+*.idea/
+*.DS_Store
+
+# other dirs
+downloads/
+src/
