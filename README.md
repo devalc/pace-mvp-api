@@ -39,10 +39,13 @@ pace-download
 
 ## Authentication
 
-To run the code successfully, you need to set up authentication with Earth EarthData. Make sure you have your .netcert file configured. You can follow the official guide here:
-Earth Access Authentication Guide
+To run the code successfully, you need to set up authentication with EarthData. Make sure you have your `.netcert` file configured.  
 
-Once your .netcert is set up, the code should work as expected.
+You can follow the official guide here:  
+[Earth Access Authentication Guide](https://earthaccess.readthedocs.io/en/stable/howto/authenticate/)
+
+Once your `.netcert` is set up, the code should work as expected.
+
 
 ## 📟 Example: CLI Usage
 
